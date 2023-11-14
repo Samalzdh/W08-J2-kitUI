@@ -1,0 +1,16 @@
+<div class="hero background">
+  <div class=" text-secondary px-4 py-5 text-center text-black">
+    <div class="py-5">
+        <h1 class="display-5 fw-bold text-white">TEMA CE JUMBOTRON </h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="fs-5 mb-4 text-primary">Avoue tu kiff</p>
+            <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <button type="button" class="btn btn-outline-light btn-lg px-4 me-sm-3 fw-bold">Clic ici</button>     
+            <br>
+  
+            <button type="button" class="btn btn-outline-light btn-lg px-4 me-sm-3 fw-bold"><a href="/">ou la</a></button>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>

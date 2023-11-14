@@ -1,0 +1,11 @@
+.hero {
+  position: relative;
+  height: 500px; /* Ajustez la hauteur selon vos besoins */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.background {
+    background: linear-gradient(to bottom, #FFC0CB, #f288d4); 
+  }

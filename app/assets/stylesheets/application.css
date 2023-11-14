@@ -12,5 +12,8 @@
  *
  *= require bootstrap
  *= require footer
+ *= require form
+ *= require jumbotron
+
 
  */
